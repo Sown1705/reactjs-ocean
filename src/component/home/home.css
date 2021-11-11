@@ -1,0 +1,34 @@
+.article {
+    border: 1px soild black;
+}
+
+.article .box1-article {
+    width: 26%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid gray;
+    left: -200px;
+}
+
+.article .box1-article .createBy {
+    opacity: 40%;
+}
+
+.article .box1-article .shortDescript {
+    opacity: 80%;
+}
+
+.article .btn-view-post {
+    font-size: 13px;
+    padding: 5px 5px;
+    color: white;
+    margin: 8px 8px;
+    line-height: 10px;
+    text-align: center;
+    position: relative;
+    margin-left: 1070px;
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+    background-color: #0085A1;
+}
